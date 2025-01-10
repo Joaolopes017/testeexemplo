@@ -1,7 +1,7 @@
 {
   "name": "testeexemplo",
   "version": "0.1.0",
-  "homepage": "testeexemplo",
+  "homepage": "https://Joaolopes017.github.io/testeexemplo",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
